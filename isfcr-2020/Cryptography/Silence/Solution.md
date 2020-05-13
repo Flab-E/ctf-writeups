@@ -10,6 +10,8 @@ Every line represents a letter from silence.pdf given with the challenge
 |	3	|	letter from left	|
 
 ### decode
+| Code		|	text|
+|---------------|-----------|
 |6-15-10	|	C|
 |2-13-1		|	T|
 |7-3-52		|	F|
