@@ -6,5 +6,5 @@
 3.	Linux
 4.	Forensics
 5.	Stego
-6.	Misc
+6.	Cryptography
 
