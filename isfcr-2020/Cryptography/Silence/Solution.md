@@ -23,14 +23,14 @@ Every line represents a letter from silence.pdf given with the challenge
 |8-11-16	|	W|
 |11-2-5		|	a|
 |4-21-3		|	s|
-_			_
-13-18-20		G
-9-5-9			e
-14-11-16		n
-1-19-56			i
-3-5-16			u
-9-1-1			S
-}			}
+|_		|	_|
+|13-18-20	|	G|
+|9-5-9		|	e|
+|14-11-16	|	n|
+|1-19-56	|	i|
+|3-5-16		|	u|
+|9-1-1		|	S|
+|}		|	}|
 
 ### flag:
 CTF{Ben_Was_GeniuS}
