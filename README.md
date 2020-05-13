@@ -4,5 +4,5 @@
 ### Overview
 | CTF		|	Link		|
 |---------------|-----------------------|
-| ISFCR Hack	| [2020](/tree/master/isfcrctf-2020/)	|
+| ISFCR Hack	| [2020](https://github.com/Flab-E/ctf-writeups/tree/master/isfcr-2020)	|
 
