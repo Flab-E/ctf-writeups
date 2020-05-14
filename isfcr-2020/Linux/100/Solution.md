@@ -7,6 +7,8 @@ we are given 3 files:
 	p2.py
 	key
 
+Key: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
 The challenge asks us to use the key as input for p1.py and use the resultant output as input for p2.py.
 Futher use the output as input fr p1.py again.
 We were asked to repeate this 100 times and the final output to be submitted as flag enclosed in ctf{}.
