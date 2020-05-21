@@ -8,7 +8,7 @@ Since its so big, it must have been encoded multiple times.
 You can use python to decode it until it cant be decoded anymore. or u could just brute force through command line,
 which is what i did. I found out that it was encoded 30 times using:
 ```
-echo "$( < flag.txt)"
+echo "$( < flag.txt)" | base64 -d | base64 -d |...| base64 -d 
 ```
 
 ### flag:
